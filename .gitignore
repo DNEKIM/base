@@ -19,7 +19,7 @@ bin/
 
 ### IntelliJ IDEA ###
 src/main/generated
-application-secret.properties
+#application-secret.properties
 .idea
 *.iws
 *.iml
